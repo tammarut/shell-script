@@ -3,8 +3,8 @@ when you want them
 **Watch this repository**
 
 ### How to run shell script
-source <name.sh>
+*source <name.sh>*
      or
-bash <name.sh>
+*bash <name.sh>*
      or
-sh <name.sh>
+*sh <name.sh>*
